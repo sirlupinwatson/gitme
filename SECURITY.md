@@ -2,13 +2,18 @@
 
 ## Reporting a vulnerability
 
-Please send a detailed mail to git-security@googlegroups.com to
-report vulnerabilities in Git.
+Please send us a detailed email to any of those address:
+1- git-security@googlegroups.com
+2- rsa4096@googlegroups.com
+(you can use the issue templace to include your content using a 
+structured approach) in order to report any vulnerabilities that 
+could affect the content of this repository (Git). You can also 
+open up an issue and leave us a message if you believe that
+there is a high risk, or even if you see something strange and 
+are not sure about it, let us know! Everyone should have the 
+right to access a safe environment, and security, is one of 
+top our priority. Let's build the world open-source!  
 
-Even when unsure whether the bug in question is an exploitable
-vulnerability, it is recommended to send the report to
-git-security@googlegroups.com (and obviously not to discuss the
-issue anywhere else).
 
 Vulnerabilities are expected to be discussed _only_ on that
 list, and not in public, until the official announcement on the
